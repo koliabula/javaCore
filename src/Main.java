@@ -24,5 +24,6 @@ public class Main {
         FunctionClass.deepSort(TestData.array3);
         FunctionClass.deepSort(TestData.array4);
         FunctionClass.deepSort(TestData.array5);
+        System.out.println("------------КОНЕЦ------------");
     }
 }
